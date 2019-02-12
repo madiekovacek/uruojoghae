@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://geikubae.tyler-liu.com/sitemap.xml
